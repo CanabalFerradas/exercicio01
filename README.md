@@ -5,7 +5,7 @@ git init
 git config --global user.name "rodrigo ferradas"
 
 # Configura o email de usuário global
-git config --global user.email "rodrigo.canabal02@gmail.com"
+git config --global user.email "rodrigo.ferradas1587@gmail.com"
 
 # Abre o arquivo readme.md no editor vi
 vi readme.md 
